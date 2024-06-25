@@ -1,0 +1,2 @@
+# nn_from_scratch
+nn_from_scratch_and_different_regularisation_and_optimisation_technique
